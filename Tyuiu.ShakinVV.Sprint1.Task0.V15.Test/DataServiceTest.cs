@@ -9,7 +9,7 @@ namespace Tyuiu.ShakinVV.Sprint1.Task0.V15.Test
         [TestMethod]
         public void ValidExpression()
         {
-            DataService ds = new DataService();
+            DataService ds = new DataService(); 
             var res = ds.Calculate();
             Assert.AreEqual(24, res);
         }
