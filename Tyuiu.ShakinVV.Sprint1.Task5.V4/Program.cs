@@ -13,7 +13,7 @@ namespace Tyuiu.ShakinVV.Sprint1.Task5.V4
             Console.Title = "Спринт #1 | Выполнил: Шакин В. В. | АСОиУб-26-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
-            Console.WriteLine("* Тема: Базовые навыки работы в C#                                        *");
+            Console.WriteLine("* Тема: Преобразование типов и класс Convert                              *");
             Console.WriteLine("* Задание #5                                                              *");
             Console.WriteLine("* Вариант #4                                                              *");
             Console.WriteLine("* Выполнил: Шакин Владимир Вячеславович | АСОиУб-26-1                     *");
